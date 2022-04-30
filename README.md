@@ -45,9 +45,7 @@
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SergiuLupaiescu&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergiuLupaiescu)](https://github.com/anuraghazra/github-readme-stats)  
   </td>
 </tr>
 </table>
