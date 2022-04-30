@@ -45,7 +45,7 @@
 </td>
 
 <td width="50%" align="center">
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergiuLupaiescu&theme=tokyonight)
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiuLupaiescu&theme=tokyonight&show_icons=true&count_private=true" />
   </td>
 </tr>
 </table>
