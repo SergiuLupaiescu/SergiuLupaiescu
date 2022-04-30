@@ -82,23 +82,13 @@
   <h3><b>Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/sergiu-lupaiescu/" target="_blank">
   <img align="center" alt="Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/" target="_blank">
+<a href="https://twitter.com/sergiuxg" target="_blank">
   <img align="center" alt="Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="" >
-  <img align="center" alt="Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
 
-<p>
 <br>
-  
-   
-  <br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 ------
