@@ -32,7 +32,7 @@
   <br>
 
   
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergiuLupaiescu&show_icons=true&theme=tokyonight)
   
 <table border="0" align="center">
 <tr border="0">
