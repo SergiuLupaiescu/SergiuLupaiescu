@@ -76,9 +76,6 @@
 
 <br>
  <hr>
-
- <br> 
- <hr>
  <br>
 
   <div align="center">
