@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - &nbsp; Software Engineer - Ruby Developer
-- &nbsp; Studying Computer Science & Electrical Engineering
+- &nbsp; Studying Computer Science
 <br>
 
 ### 💻 Tech Stack
