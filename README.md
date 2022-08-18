@@ -35,7 +35,6 @@
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" style="height: 4rem"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" title="CassandraDB" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" style="height: 4rem; background-color:white"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" style="height: 4rem; background-color:white"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" style="height: 4rem; background-color:white"/>
@@ -47,7 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Boostrap" style="height: 4rem"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" title="Bulma" style="height: 4rem; background-color:white"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" style="height: 4rem; background-color:white"/>
   <br>
   <br>
   <b>Other tools</b>
@@ -55,7 +53,6 @@
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" style="height: 4rem"/>
-  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" title="Vagrant" style="height: 4rem; background-color:white"/>
   <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" title="TravisCI" style="height: 4rem; background-color:white"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Ubuntu" style="height: 4rem; background-color:white"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" style="height: 4rem; background-color:white"/>
@@ -63,9 +60,6 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/bigchaindb_logo_icon_167810.png" title="BigchainDB" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_solidity_icon_130156.png" title="Solidity" style="height: 4rem; background-color:white"/>
   <img src="https://user-images.githubusercontent.com/89463393/185341729-4a78876f-8fa0-4553-8494-522c470c6f0e.png" title="Jira" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" title="Kubernetes" style="height: 4rem; background-color:white"/>
-  <img src="" style="height: 4rem; background-color:white"/>
-  <img src="" style="height: 4rem; background-color:white"/>
 </p>
 <br>
 
