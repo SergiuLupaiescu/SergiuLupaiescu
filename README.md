@@ -60,6 +60,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="height: 4rem; background-color:white"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="height: 4rem; background-color:white"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/bigchaindb_logo_icon_167810.png" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_solidity_icon_130156.png" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" style="height: 4rem; background-color:white"/>
+  <img src="" style="height: 4rem; background-color:white"/>
 </p>
 <br>
 
