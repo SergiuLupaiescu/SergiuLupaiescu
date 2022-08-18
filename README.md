@@ -2,7 +2,9 @@
 https://user-images.githubusercontent.com/89463393/185462427-9f423b3b-fc00-49a3-98c5-2a8205a3c521.mov
 
 <br>
+
 ### 💻 Tech Stack
+
 <br>
 <p align="center">
   <br>
