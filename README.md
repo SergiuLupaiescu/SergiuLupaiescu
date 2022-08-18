@@ -17,28 +17,28 @@
   <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" title="Ruby" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" title="Elixir" style="height: 4rem; background-color:white"/>
   <br>
   <br>
   <b>Frameworks</b>
   <br>
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  style="height: 4rem"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg"  style="height: 4rem"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  style="height: 4rem; bg-color:white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" style="height: 4rem"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" title="Ruby on Rails" style="height: 4rem"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" style="height: 4rem; bg-color:white"/>
   <br>
   <br>
   <b>Databases</b>
   <br>
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  style="height: 4rem"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="height: 4rem; background-color:white"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" style="height: 4rem"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" style="height: 4rem"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" title="CassandraDB" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" style="height: 4rem; background-color:white"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" style="height: 4rem; background-color:white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" style="height: 4rem; background-color:white"/>
   <br>
   <br>
   <b>Frontend</b>
