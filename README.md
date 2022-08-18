@@ -64,7 +64,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_solidity_icon_130156.png" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" style="height: 4rem; background-color:white"/>
+  <img src="" style="height: 4rem; background-color:white"/>
   <img src="" style="height: 4rem; background-color:white"/>
 </p>
 <br>
@@ -92,12 +92,20 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/sergiu-lupaiescu/" target="_blank">
-  <img align="center" alt="Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Linkedin" width="24px" src="https://cdn.icon-icons.com/icons2/805/PNG/128/linkedin_icon-icons.com_65929.png" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/sergiuxg" target="_blank">
-  <img align="center" alt="Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  <img align="center" alt="Twitter" width="26px" src="https://cdn.icon-icons.com/icons2/1211/PNG/128/1491579542-yumminkysocialmedia22_83078.png" />
 </a> &nbsp;&nbsp;
-
+<a href="" target="_blank">
+  <img align="center" alt="Telegram" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" />
+</a> &nbsp;&nbsp;
+<a href="" target="_blank">
+  <img align="center" alt="Twitch" width="26px" src="https://icon-icons.com/icon/twitch/146123" />
+</a> &nbsp;&nbsp;
+<a href="" target="_blank">
+  <img align="center" alt="Discord" width="26px" src="https://icon-icons.com/icon/discord/146195" />
+</a> &nbsp;&nbsp;
 <br>
 
 ------
