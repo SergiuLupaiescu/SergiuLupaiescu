@@ -17,6 +17,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" style="height: 4rem; background-color:white"/>
   <br>
   <br>
+  <b>Frameworks</b>
+  <br>
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  style="height: 4rem"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg"  style="height: 4rem"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" style="height: 4rem; background-color:white"/>
