@@ -27,13 +27,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="height: 4rem; background-color:white"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-  <img src="" style="height: 4rem; background-color:white"/>
-  <img src="" style="height: 4rem; background-color:white"/>
-  <img src="" style="height: 4rem; background-color:white"/>
-  <img src="" style="height: 4rem; background-color:white"/>
-  <img src="" style="height: 4rem; background-color:white"/>
-  <img src="" style="height: 4rem; background-color:white"/>
-  <img src="" style="height: 4rem; background-color:white"/>
+  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 </p>
 <br>
 
