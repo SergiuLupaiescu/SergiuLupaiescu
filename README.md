@@ -55,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" style="height: 4rem"/>
   <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" title="TravisCI" style="height: 4rem; background-color:white"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Ubuntu" style="height: 4rem; background-color:white"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" style="height: 4rem; background-color:white"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/bigchaindb_logo_icon_167810.png" title="BigchainDB" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_solidity_icon_130156.png" title="Solidity" style="height: 4rem; background-color:white"/>
