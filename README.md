@@ -88,16 +88,16 @@
   <img align="center" alt="Linkedin" width="24px" src="https://cdn.icon-icons.com/icons2/805/PNG/128/linkedin_icon-icons.com_65929.png" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/sergiuxg" target="_blank">
-  <img align="center" alt="Twitter" width="26px" src="https://cdn.icon-icons.com/icons2/1211/PNG/128/1491579542-yumminkysocialmedia22_83078.png" />
+  <img align="center" title="Twitter" alt="Twitter" width="26px" src="https://cdn.icon-icons.com/icons2/1211/PNG/128/1491579542-yumminkysocialmedia22_83078.png" />
 </a> &nbsp;&nbsp;
 <a href="" target="_blank">
-  <img align="center" alt="Telegram" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" />
+  <img align="center" title="Telegram" alt="Telegram" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" />
 </a> &nbsp;&nbsp;
 <a href="" target="_blank">
-  <img align="center" alt="Twitch" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/128/twitch_icon_146123.png" />
+  <img align="center" title="Twitch" alt="Twitch" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/128/twitch_icon_146123.png" />
 </a> &nbsp;&nbsp;
 <a href="" target="_blank">
-  <img align="center" alt="Discord" width="26px" src="https://cdn.icon-icons.com/icons2/1476/PNG/128/discord_101785.png" />
+  <img align="center" title="Discord" alt="Discord" width="26px" src="https://cdn.icon-icons.com/icons2/1476/PNG/128/discord_101785.png" />
 </a> &nbsp;&nbsp;
 <br>
 
