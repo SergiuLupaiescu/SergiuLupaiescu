@@ -25,6 +25,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+  <img src="" style="height: 4rem; background-color:white"/>
+  <img src="" style="height: 4rem; background-color:white"/>
+  <img src="" style="height: 4rem; background-color:white"/>
+  <img src="" style="height: 4rem; background-color:white"/>
+  <img src="" style="height: 4rem; background-color:white"/>
+  <img src="" style="height: 4rem; background-color:white"/>
+  <img src="" style="height: 4rem; background-color:white"/>
 </p>
 <br>
 
