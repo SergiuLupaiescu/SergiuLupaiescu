@@ -19,7 +19,6 @@
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  style="height: 4rem"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg"  style="height: 4rem"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  style="height: 4rem; bg-color:white"/>
   <br>
