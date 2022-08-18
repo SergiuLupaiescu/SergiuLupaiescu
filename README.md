@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original-wordmark.svg" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  style="height: 4rem"/>
@@ -34,7 +34,7 @@
 <table border="0" align="center">
   <tr border="0">
     <td width="50%" align="center">
-      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SergiuLupaiescu&theme=tokyonight&show_icons=true&count_private=true" />
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SergiuLupaiescu&theme=tokyonight&hide=javascript,css,scss,show_icons=true&count_private=true" />
       <br></br>
       <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SergiuLupaiescu&theme=dark&hide_border=true" />
     </td>
