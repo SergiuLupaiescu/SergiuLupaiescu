@@ -85,7 +85,7 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/sergiu-lupaiescu/" target="_blank">
-  <img align="center" alt="Linkedin" width="24px" src="https://cdn.icon-icons.com/icons2/805/PNG/128/linkedin_icon-icons.com_65929.png" />
+  <img align="center" title="Linkedin" alt="Linkedin" width="24px" src="https://cdn.icon-icons.com/icons2/805/PNG/128/linkedin_icon-icons.com_65929.png" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/sergiuxg" target="_blank">
   <img align="center" title="Twitter" alt="Twitter" width="26px" src="https://cdn.icon-icons.com/icons2/1211/PNG/128/1491579542-yumminkysocialmedia22_83078.png" />
