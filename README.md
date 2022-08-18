@@ -101,10 +101,10 @@
   <img align="center" alt="Telegram" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" />
 </a> &nbsp;&nbsp;
 <a href="" target="_blank">
-  <img align="center" alt="Twitch" width="26px" src="https://icon-icons.com/icon/twitch/146123" />
+  <img align="center" alt="Twitch" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/128/twitch_icon_146123.png" />
 </a> &nbsp;&nbsp;
 <a href="" target="_blank">
-  <img align="center" alt="Discord" width="26px" src="https://icon-icons.com/icon/discord/146195" />
+  <img align="center" alt="Discord" width="26px" src="https://cdn.icon-icons.com/icons2/1476/PNG/128/discord_101785.png" />
 </a> &nbsp;&nbsp;
 <br>
 
