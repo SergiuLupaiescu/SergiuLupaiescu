@@ -62,7 +62,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/bigchaindb_logo_icon_167810.png" title="BigchainDB" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_solidity_icon_130156.png" title="Solidity" style="height: 4rem; background-color:white"/>
-  <img src="https://user-images.githubusercontent.com/89463393/185341729-4a78876f-8fa0-4553-8494-522c470c6f0e.png" title="" style="height: 4rem; background-color:white"/>
+  <img src="https://user-images.githubusercontent.com/89463393/185341729-4a78876f-8fa0-4553-8494-522c470c6f0e.png" title="Jira" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" title="Kubernetes" style="height: 4rem; background-color:white"/>
   <img src="" style="height: 4rem; background-color:white"/>
   <img src="" style="height: 4rem; background-color:white"/>
