@@ -48,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" title="Bulma" style="height: 4rem; background-color:white"/>
   <br>
   <br>
-  <b>Other tools</b>
+  <b>Other technologies</b>
   <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" style="height: 4rem"/>
