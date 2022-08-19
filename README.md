@@ -1,4 +1,4 @@
-### :point_down: About Me :point_down:
+<h3 style="text-align: center;"> :point_down: About Me :point_down: </h3>
 
 https://user-images.githubusercontent.com/89463393/185465976-af7d572c-e5aa-46c5-aa62-66051698833c.mp4
 
