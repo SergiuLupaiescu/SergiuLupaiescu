@@ -1,6 +1,8 @@
-### :point_down: About Me :point_down: 
+### Hi, there! 🖐️
 
 [//]: https://user-images.githubusercontent.com/89463393/185465976-af7d572c-e5aa-46c5-aa62-66051698833c.mp4
+
+👉 <p>My name is Sergiu and I'm a software developer based in Suceava, Romania</p<
 
 <br>
 
