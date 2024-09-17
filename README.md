@@ -1,102 +1,83 @@
 ### Hi, there! 🖐️
 
-[//]: https://user-images.githubusercontent.com/89463393/185465976-af7d572c-e5aa-46c5-aa62-66051698833c.mp4
-
 👉 My name is Sergiu and I'm a software developer based in Suceava, Romania.
 
-<br>
 
 ### 💻 Tech Stack
-
+<b>Languages</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" title="Ruby" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" style="height: 4rem"/>
+<img src="https://github.com/user-attachments/assets/86148b96-87dd-4c2d-bcad-f094985cc6eb" title="Elixir" alt="Elixir" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" title="Bash" alt="Bash" style="height: 4rem;"/>
 <br>
-<p align="center">
-  <br>
-  <br>
-  <b>Languages</b>
-  <br>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" title="Ruby" style="height: 4rem; background-color:white"/>
-  <br>
-  <br>
-  <b>Frameworks</b>
-  <br>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" style="height: 4rem"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" title="Ruby on Rails" style="height: 4rem"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" style="height: 4rem; bg-color:white"/>
-  <br>
-  <br>
-  <b>Databases</b>
-  <br>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" style="height: 4rem; background-color:white"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" style="height: 4rem; background-color:white"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" style="height: 4rem; background-color:white"/>
-  <br>
-  <br>
-  <b>Frontend</b>
-  <br>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Boostrap" style="height: 4rem"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" title="Bulma" style="height: 4rem; background-color:white"/>
-  <br>
-  <br>
-  <b>Other technologies</b>
-  <br>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" style="height: 4rem"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" style="height: 4rem"/>
-  <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" title="TravisCI" style="height: 4rem; background-color:white"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Ubuntu" style="height: 4rem; background-color:white"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/bigchaindb_logo_icon_167810.png" title="BigchainDB" style="height: 4rem; background-color:white"/>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_solidity_icon_130156.png" title="Solidity" style="height: 4rem; background-color:white"/>
-  <img src="https://user-images.githubusercontent.com/89463393/185341729-4a78876f-8fa0-4553-8494-522c470c6f0e.png" title="Jira" style="height: 4rem; background-color:white"/>
+
+<b>Frameworks</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" style="height: 4rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" title="Ruby on Rails" style="height: 4rem"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" style="height: 4rem; background-color:white"/>
+<img src="https://github.com/user-attachments/assets/56285d33-9d30-4c50-addb-7f66c7d0791f" title="Phoenix" alt="Phoenix" style="height: 4rem;"/>
+<br>
+
+<b>Databases</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" style="height: 4rem; background-color:white"/>
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" style="height: 4rem; background-color:white"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" style="height: 4rem; background-color:white"/>
+<img src="https://github.com/user-attachments/assets/90e08203-0641-40cf-9482-530674443675" title="CassandraDB" alt="CassandraDB" style="height: 4rem;"/>
+<br>
+
+<b>Frontend</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" style="height: 4rem"/>
+<img src="https://github.com/user-attachments/assets/7aa365f1-f144-4dfc-b33f-3cefe8cb4c78" title="CSS" alt="CSS" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/2ed35523-792b-4301-b251-8c15bb560558" title="TailwindCSS" alt="TailwindCSS" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/ddd2e7cf-038b-474e-b247-a61ecc593d05" title="Sass" alt="Sass" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/311d4191-b076-4c45-a193-9cc3cac40d4f" title="Bootstrap" alt="Bootstrap" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/0a8e8d01-50ae-4bf2-9a17-e17ef94e3d86" title="JavaScript" alt="JavaScript" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/de5b1aa5-f073-4bcf-90df-0b8b56d7be30" title="jQuery" alt="jQuery" style="height: 4rem;"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" title="Bulma" style="height: 4rem; background-color:white"/>
+<br>
+
+<b>Virtualization & Orchestration</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" style="height: 4rem"/>
+<img src="https://github.com/user-attachments/assets/d39b721d-0893-436b-b866-d48d056d2b0b" title="Kubernetes" alt="Kubernetes" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/782ff299-f3ae-4df7-85fb-87be4d745e87" title="Helm" alt="Helm" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/18d15042-991f-419e-b13a-5a1432464b10" title="Podman" alt="Podman" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/a8367fa3-4d59-42c1-b3c6-384389a33c75" title="Vagrant" alt="Vagrant" style="height: 4rem;"/>
+
+<b>Version Control</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" style="height: 4rem"/>
+
+<b>Visualization Tools & Monitoring</b><br>
+<img src="https://github.com/user-attachments/assets/d26dd299-3d4a-416c-abca-72eb206ba12d" title="Prometheus" alt="Prometheus" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/2f0077e0-e5f6-4d80-b5b7-e9d40a5a4f76" title="Grafana" alt="Grafana" style="height: 4rem;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" title="Sentry" alt="Sentry" style="height: 4rem;" /> 
+
+<b>API Testing Tools</b><br>
+<img src="https://github.com/user-attachments/assets/11d9fec4-9f78-4564-a22e-2edb4c9ca09b" title="Insomnia" alt="Insomnia" style="height: 4rem;"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" style="height: 4rem; background-color:white"/>
+
+<b>CI & CD</b><br>
+<img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" title="TravisCI" style="height: 4rem; background-color:white"/>
+<img src="https://github.com/user-attachments/assets/71cfcb79-77b3-4631-95c2-d0cd48a658ca" title="Gihub Actions" style="height: 4rem; background-color:white"/>
+<img src="https://github.com/user-attachments/assets/d2950f5b-55bb-4ec9-b212-53928303aa90" title="CircleCI" style="height: 4rem; background-color:white"/>
+
+<b>Other technologies</b><br>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/bigchaindb_logo_icon_167810.png" title="BigchainDB" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_solidity_icon_130156.png" title="Solidity" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" style="height: 4rem;" />
+<img src="https://github.com/user-attachments/assets/2e4e5640-28f4-402e-a9cf-442a7a9ac920" title="Apache Kafka" alt="Apache Kafka" style="height: 4rem;" />
+
+<b>IDEs & Project Management</b><br>
+<img src="https://github.com/user-attachments/assets/4eb7332e-0427-4b42-922d-13164367ed8d" title="Jira" alt="JIRA" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/3eda17ec-969c-4743-930b-03c80346b899" title="JetBrains" alt="JetBrains" style="height: 4rem;"/>
+
+<b>Operating System</b><br>
+<img src="https://github.com/user-attachments/assets/e3006087-58a3-4a99-bd32-c3254ccd0b07" title="Ubuntu" style="height: 4rem; background-color:white"/>
 </p>
-<br>
 
-<table border="0" align="center">
-  <tr border="0">
-    <td width="50%" align="center">
-       <img  align="center" src="https://github-readme-stats.vercel.app/api?username=SergiuLupaiescu&theme=tokyonight&show_icons=true&count_private=true" />
-      <br></br>
-      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SergiuLupaiescu&theme=dark&hide_border=true" />
-    </td>
-    <td width="50%" align="center">
-      <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiuLupaiescu&hide=javascript,css,scss,html&theme=tokyonight&count_private=true" />
-    </td>
-  </tr>
-</table>
-<br>
-
-<br>
- <hr>
- <br>
-
-  <div align="center">
-  <h3><b>Connect With Me On</b></h3>
-  </div>
-<p align="center">
-<a href="https://www.linkedin.com/in/sergiu-lupaiescu/" target="_blank">
-  <img align="center" title="Linkedin" alt="Linkedin" width="24px" src="https://cdn.icon-icons.com/icons2/805/PNG/128/linkedin_icon-icons.com_65929.png" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/sergiuxg" target="_blank">
-  <img align="center" title="Twitter" alt="Twitter" width="26px" src="https://cdn.icon-icons.com/icons2/1211/PNG/128/1491579542-yumminkysocialmedia22_83078.png" />
-</a> &nbsp;&nbsp;
-<a href="" target="_blank">
-  <img align="center" title="Telegram" alt="Telegram" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" />
-</a> &nbsp;&nbsp;
-<a href="" target="_blank">
-  <img align="center" title="Twitch" alt="Twitch" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/128/twitch_icon_146123.png" />
-</a> &nbsp;&nbsp;
-<a href="" target="_blank">
-  <img align="center" title="Discord" alt="Discord" width="26px" src="https://cdn.icon-icons.com/icons2/1476/PNG/128/discord_101785.png" />
-</a> &nbsp;&nbsp;
-<br>
+<b>Statistics</b><br>
+![Sergiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergiuLupaiescu&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergiuLupaiescu&langs_count=20&layout=compact&card_width=320&count_private=true)
 
 ------
