@@ -1,7 +1,8 @@
 ### Hi, there! 🖐️
 
-👉 My name is Sergiu and I'm a software developer based in Suceava, Romania.
+👉 My name is Sergiu and I'm a software developer based in Suceava, Romania.<br>
 
+<a style="align: center;" href="https://app.daily.dev/sergiulupaiescu"><img src="https://api.daily.dev/devcards/v2/VjhcIgjSA19OnYaVnmpeP.png?type=default&r=sj5" width="356" alt="Sergiu's Dev Card"/></a>
 
 ### 💻 Tech Stack
 <b>Languages</b><br>
