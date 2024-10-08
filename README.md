@@ -13,8 +13,8 @@
 <br>
 
 <b>Frameworks</b><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" style="height: 4rem"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" title="Ruby on Rails" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" style="height: 4rem"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" style="height: 4rem; background-color:white"/>
 <img src="https://github.com/user-attachments/assets/56285d33-9d30-4c50-addb-7f66c7d0791f" title="Phoenix" alt="Phoenix" style="height: 4rem;"/>
 <br>
