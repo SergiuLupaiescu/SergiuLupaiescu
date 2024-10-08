@@ -25,7 +25,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" style="height: 4rem; background-color:white"/>
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" style="height: 4rem; background-color:white"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" style="height: 4rem; background-color:white"/>
-<img src="https://github.com/user-attachments/assets/90e08203-0641-40cf-9482-530674443675" title="CassandraDB" alt="CassandraDB" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/a344f589-9016-4d28-a471-77cc8f75e763" title="Apache Cassandra" alt="Apache Cassandra" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/519ff5c2-780e-4e9d-9832-a2e0d84e3b78" title="AWS QLDB" alt="AWS QLDB" style="height: 4rem;"/>
+
 <br>
 
 <b>Frontend</b><br>
@@ -56,9 +58,11 @@
 
 <b>API Testing Tools</b><br>
 <img src="https://github.com/user-attachments/assets/11d9fec4-9f78-4564-a22e-2edb4c9ca09b" title="Insomnia" alt="Insomnia" style="height: 4rem;"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" style="height: 4rem; background-color:white"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" style="height: 4rem; background-color:white"/>
+<img src="https://github.com/user-attachments/assets/1884c838-19ab-455d-b834-bb690f3deb43" title="Swagger" alt="Swagger" style="height: 4rem;"/>
 
 <b>CI & CD</b><br>
+<img src="https://github.com/user-attachments/assets/71dea4c0-8d92-4158-85af-d94383875d9a" title="Heroku" alt="Heroku" style="height: 4rem;"/>
 <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" title="TravisCI" style="height: 4rem; background-color:white"/>
 <img src="https://github.com/user-attachments/assets/71cfcb79-77b3-4631-95c2-d0cd48a658ca" title="Gihub Actions" style="height: 4rem; background-color:white"/>
 <img src="https://github.com/user-attachments/assets/d2950f5b-55bb-4ec9-b212-53928303aa90" title="CircleCI" style="height: 4rem; background-color:white"/>
@@ -68,13 +72,19 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_solidity_icon_130156.png" title="Solidity" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" style="height: 4rem;" />
 <img src="https://github.com/user-attachments/assets/2e4e5640-28f4-402e-a9cf-442a7a9ac920" title="Apache Kafka" alt="Apache Kafka" style="height: 4rem;" />
+<img src="https://github.com/user-attachments/assets/123a0f97-cc49-4812-a78f-76497a2f0642" title="RSpec" alt="RSpec" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/693a64a8-68c8-4d95-8aea-cb1bf6bd4567" title="HardHat" alt="HardHat" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/098e88e4-7f72-434a-9834-e657dc1c74d7" title="Canva" alt="Canva" style="height: 4rem;"/>
 
 <b>IDEs & Project Management</b><br>
 <img src="https://github.com/user-attachments/assets/4eb7332e-0427-4b42-922d-13164367ed8d" title="Jira" alt="JIRA" style="height: 4rem;"/>
+<img src="https://github.com/user-attachments/assets/cc11e9b0-908b-435e-b08f-fdf06d7c195b" title="Trello" alt="Trello" style="height: 4rem;"/>
 <img src="https://github.com/user-attachments/assets/3eda17ec-969c-4743-930b-03c80346b899" title="JetBrains" alt="JetBrains" style="height: 4rem;"/>
 
 <b>Operating System</b><br>
-<img src="https://github.com/user-attachments/assets/e3006087-58a3-4a99-bd32-c3254ccd0b07" title="Ubuntu" style="height: 4rem; background-color:white"/>
+<img src="https://github.com/user-attachments/assets/e3006087-58a3-4a99-bd32-c3254ccd0b07" title="Ubuntu" alt="Ubuntu" style="height: 4rem; background-color:white"/>
+<img src="https://github.com/user-attachments/assets/70b01da1-1226-4d77-82ea-471e0f851e76" title="Windows" alt="Windows" style="height: 4rem; background-color:white"/>
+
 </p>
 
 <b>Statistics</b><br>
