@@ -8,7 +8,6 @@
 <b>Languages</b><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" title="Ruby" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" style="height: 4rem"/>
-<img src="https://github.com/user-attachments/assets/86148b96-87dd-4c2d-bcad-f094985cc6eb" title="Elixir" alt="Elixir" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" title="Bash" alt="Bash" style="height: 4rem;"/>
 <br>
 
@@ -16,7 +15,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" title="Ruby on Rails" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" style="height: 4rem"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" style="height: 4rem; background-color:white"/>
-<img src="https://github.com/user-attachments/assets/56285d33-9d30-4c50-addb-7f66c7d0791f" title="Phoenix" alt="Phoenix" style="height: 4rem;"/>
 <br>
 
 <b>Databases</b><br>
