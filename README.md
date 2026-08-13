@@ -9,28 +9,36 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
+![FastAPI](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=fastapi)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
+![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=rubyonrails)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
+![SketchUp](https://img.shields.io/badge/-SketchUp-05122A?style=flat&logo=sketchup)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## 📈 &nbsp;GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergiuLupaiescu&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiuLupaiescu&layout=compact&langs_count=10&theme=github_dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SergiuLupaiescu&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
----
+<div align="center">
 
-## 📈 &nbsp;GitHub Statistics
+![GitHub Repo Stars](https://img.shields.io/github/stars/SergiuLupaiescu?style=for-the-badge&logo=github&label=REPOSITORY%20STARS)
+![GitHub Followers](https://img.shields.io/github/followers/SergiuLupaiescu?style=for-the-badge&logo=github&label=FOLLOWERS)
+
+</div>
+
 
 <div align="center">
 
@@ -52,28 +60,6 @@
 
 ---
 
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SergiuLupaiescu&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## 🔥 &nbsp;Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SergiuLupaiescu&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 📅 &nbsp;Contribution Activity
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SergiuLupaiescu&theme=github-dark&hide_border=true&area=true" width="95%" alt="GitHub contribution activity graph"/>
@@ -82,68 +68,8 @@
 
 ---
 
-## 📦 &nbsp;Repositories, PRs & Issues
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SergiuLupaiescu&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=github_dark&hide_border=true" width="70%" alt="GitHub pull requests and statistics"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![GitHub Repo Stars](https://img.shields.io/github/stars/SergiuLupaiescu?style=for-the-badge&logo=github&label=REPOSITORY%20STARS)
-
-![GitHub Followers](https://img.shields.io/github/followers/SergiuLupaiescu?style=for-the-badge&logo=github&label=FOLLOWERS)
-
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SergiuLupaiescu/SergiuLupaiescu/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SergiuLupaiescu/SergiuLupaiescu/output/github-contribution-grid-snake.svg"> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SergiuLupaiescu/SergiuLupaiescu/output/github-contribution-grid-snake.svg"> </picture>
 </div>
 
 ---
-
-## 💻 &nbsp;Languages Used
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiuLupaiescu&layout=donut&langs_count=10&theme=github_dark&hide_border=true" alt="Languages used"/>
-
-</div>
-
-> The language statistics above are generated automatically from your GitHub repositories. The percentages represent the relative amount of code detected in those repositories.
-
----
-
-## 📫 &nbsp;How to reach me
-
-<div align="center">
-<a href="https://github.com/SergiuLupaiescu">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-
-<a href="https://stackoverflow.com/users/19914762/abtrax">
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/>
-</a>
-&nbsp;
-</div>
-
----
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SergiuLupaiescu/SergiuLupaiescu/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=SergiuLupaiescu&style=for-the-badge&color=red" alt="Profile views"/>
-
-</div>
