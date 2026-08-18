@@ -4,7 +4,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=SergiuLupaiescu&color=red)&nbsp;
 [![GitHub Sergiu](https://img.shields.io/github/followers/SergiuLupaiescu?label=follow&style=social)](https://github.com/SergiuLupaiescu)&nbsp;
 
-💻  Certified Python & Ruby programmer focused on full-stack software development.  
+💻  Certified Python & Ruby programmer focused on full-stack software development with 5+ years of experience.  
 
 ---
 
