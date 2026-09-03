@@ -14,7 +14,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
 ![SketchUp](https://img.shields.io/badge/-SketchUp-05122A?style=flat&logo=sketchup)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
