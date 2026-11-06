@@ -1,0 +1,30 @@
+
+name: Weekend Commit
+
+on:
+  schedule:
+    - cron: '0 12 * * 6,0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Make an update
+        run: |
+          date >> .github-activity
+
+      - name: Commit and push
+        run: |
+          git config user.name "sergiulupaiescu"
+          git config user.email "89463393+SergiuLupaiescu@users.noreply.github.com"
+          git add .github-activity
+          git commit -m "weekend activity" || exit 0
+          git push
